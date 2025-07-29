@@ -6,8 +6,7 @@ Bayesian Regressors:
 - BayesianRidge 
 - ARDRegressor 
 
-Evaluation metrics to look into:
-- MSE and R2 score.
+Evaluation metrics: MSE and R2 score.
 
 Resources:
 https://scikit-learn.org/stable/auto_examples/linear_model/plot_ard.html
